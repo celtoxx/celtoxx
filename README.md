@@ -8,7 +8,7 @@
 - 🔭 I’m currently traversing a path to Full-stack dev.
 - 💬 Ask me about DSA
 - 📫 How to reach me: celtoxx@gmail.com
-- ⚡ Fun fact: Fuck facts!! coz, there are no facts, but only interpretations.
+- ⚡ Fun fact:there are no facts, but only interpretations.
 
 
 ![](https://komarev.com/ghpvc/?username=celtoxx)
